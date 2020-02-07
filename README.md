@@ -16,4 +16,4 @@ java -jar SuperTetris.jar
 # 效果
 ![example](https://github.com/DeaglePC/SuperTetris/blob/master/example.png)
 
-![example](https://github.com/DeaglePC/SuperTetris/blob/master/example.png)
+![example](https://github.com/DeaglePC/SuperTetris/blob/master/example_run.png)
